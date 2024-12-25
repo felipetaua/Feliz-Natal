@@ -17,4 +17,3 @@ Fiz pensando no mobile first com responsividade para Desktop.
   <td> <img align="center" alt="JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> </td>
 </table>
 
-https://user-images.githubusercontent.com/102387476/209403834-c42c4e7b-1d29-42fd-b109-1cd15870ccae.mp4
