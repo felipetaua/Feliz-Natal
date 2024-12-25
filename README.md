@@ -1,6 +1,8 @@
 # 🎅 Feliz Natal - Presente Especial 🎄
 
-Este projeto é um presente especial e interativo de Natal, feito com muito carinho! 💖 Uma pequena aplicação web que traz uma mensagem cheia de amor e magia para a pessoa especial da minha vida.  
+Este projeto é um presente especial e interativo de Natal, feito com muito carinho! 💖 Uma pequena aplicação web que traz uma mensagem cheia de amor e magia para a pessoa especial da minha vida. 
+
+[![Live Server](https://img.shields.io/badge/Live_Server-Click_Here-brightgreen?style=for-the-badge)](https://felipetaua.github.io/Feliz-Natal/)
 
 ## ✨ Sobre o Projeto  
 
